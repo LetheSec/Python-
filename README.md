@@ -1,4 +1,4 @@
-# Python-
+# thread_download-master.py
 
 Useage：
 python thread_download-master.py
