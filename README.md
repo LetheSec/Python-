@@ -1,6 +1,6 @@
 # thread_download-master.py
 
-Useage：
+Usage：
 python thread_download-master.py
 
 
